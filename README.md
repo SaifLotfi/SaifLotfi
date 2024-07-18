@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saif Waleed</h1>
-<h3 align="center">Fresh backend Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiflotfi&label=Profile%20views&color=0e75b6&style=flat" alt="saiflotfi" /> </p>
 
 - 🔭 I’m currently working on **My Graduation Project**
-- 🌱 I’m currently learning **Node.js, MongoDb, Express.js, PostgreSQL, Nest.js**
+- 🌱 I’m currently learning **Nest.js, Design Patterns**
 - 💬 Ask me about **Node.js, Backend Development**
-- 📫 How to reach me **swaiflnkac@gmail.com**
+- 📫 How to reach me: **saiflotfi@proton.me**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
