@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiflotfi&label=Profile%20views&color=0e75b6&style=flat" alt="saiflotfi" /> </p>
 
-- 🔭 I’m currently working on **My Graduation Project**
-- 🌱 I’m currently learning **Nest.js, Design Patterns**
+- 🌱 I’m currently learning **Nest.js, Angular.js, Vue.js**
 - 💬 Ask me about **Node.js, Backend Development**
 - 📫 How to reach me: **saiflotfi@proton.me**
 
